@@ -26,8 +26,7 @@ answers = [
     "My sources say no",
     "Outlook not so good.",
     "Very doubtful."
-    ]
-
+]
 
 while True:
     if button_a.is_pressed():
